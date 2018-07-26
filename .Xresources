@@ -1,0 +1,18 @@
+
+! clean up urxvt, add keybinds
+URxvt.intensityStyles: false
+URxvt.scrollBar: false
+
+!URxvt*depth: 32
+! Font urxvt
+URxvt.letterSpace: 1
+! Iosevka font 
+!URxvt.font: xft:Iosevka:size=9
+! Scientifica font 
+!URxvt.font:xft:scientifica:size=16
+! Curie Font 
+!Urxvt.font:xft:curie:size=12
+Urxvt.font:xft:creep:size=11
+! Note: colors beyond 15 might not be loaded (e.g., xterm, urxvt),
+! use 'shell' template to set these if necessary
+#include ".Xresources.d/colors"

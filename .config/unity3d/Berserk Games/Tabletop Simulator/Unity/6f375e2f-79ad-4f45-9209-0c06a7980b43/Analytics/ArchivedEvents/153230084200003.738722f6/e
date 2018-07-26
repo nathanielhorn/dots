@@ -1,0 +1,13 @@
+{"type":"analytics.custom.v1","msg":{"ts":1532300841658,"name":"unity.sceneLoad","custom_params":{"level_name":"Loading","level_num":0,"total_levels":2}}}
+{"type":"perf.sceneLoadingTime.v1","msg":{"ts":1532300841659,"scene_name":"Loading","scene_index":0,"background_time":60883000,"integrate_time":9611000,"ts_integrate_time":4054999,"total_time":145524992}}
+{"type":"analytics.custom.v1","msg":{"ts":1532300846593,"name":"Graphics","custom_params":{"Preset":"Medium","Resolution":"1920x1080","Fullscreen":true,"VSync":false,"Anisotropic":true,"MSAA":0,"FullTextures":true,"SSAO":false,"Shadows":"Medium","CapFPS":true}}}
+{"type":"analytics.custom.v1","msg":{"ts":1532300847496,"name":"unity.sceneLoad","custom_params":{"level_name":"Game","level_num":1,"total_levels":2}}}
+{"type":"perf.sceneLoadingTime.v1","msg":{"ts":1532300847562,"scene_name":"Game","scene_index":1,"background_time":1068505984,"integrate_time":1896275072,"ts_integrate_time":436361984,"total_time":3064567040}}
+{"type":"analytics.custom.v1","msg":{"ts":1532300848772,"name":"Subscribed_Workshop","custom_params":{"Number":0}}}
+{"type":"analytics.custom.v1","msg":{"ts":1532300879380,"name":"Tutorial_Prompt","custom_params":{"Accept":false}}}
+{"type":"analytics.appRunning.v1","msg":{"ts":1532300901632,"duration":59,"local_time_offset":0}}
+{"type":"analytics.custom.v1","msg":{"ts":1532300939122,"name":"Multiplayer_Ended"}}
+{"type":"analytics.custom.v1","msg":{"ts":1532300940329,"name":"unity.sceneLoad","custom_params":{"level_name":"Game","level_num":1,"total_levels":2}}}
+{"type":"perf.sceneLoadingTime.v1","msg":{"ts":1532300940373,"scene_name":"Game","scene_index":1,"background_time":271276000,"integrate_time":950231040,"ts_integrate_time":150000,"total_time":1236072960}}
+{"type":"analytics.appRunning.v1","msg":{"ts":1532300940386,"duration":98,"local_time_offset":0}}
+(1){"type":"analytics.appStop.v1","msg":{"ts":1532300940386}}

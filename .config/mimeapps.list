@@ -1,0 +1,27 @@
+[Default Applications]
+x-scheme-handler/http=userapp-Firefox-J9ALMZ.desktop
+x-scheme-handler/https=userapp-Firefox-J9ALMZ.desktop
+x-scheme-handler/ftp=userapp-Firefox-J9ALMZ.desktop
+x-scheme-handler/chrome=userapp-Firefox-J9ALMZ.desktop
+text/html=userapp-Firefox-J9ALMZ.desktop
+application/x-extension-htm=userapp-Firefox-J9ALMZ.desktop
+application/x-extension-html=userapp-Firefox-J9ALMZ.desktop
+application/x-extension-shtml=userapp-Firefox-J9ALMZ.desktop
+application/xhtml+xml=userapp-Firefox-J9ALMZ.desktop
+application/x-extension-xhtml=userapp-Firefox-J9ALMZ.desktop
+application/x-extension-xht=userapp-Firefox-J9ALMZ.desktop
+x-scheme-handler/magnet=userapp-transmission-gtk-23GNMZ.desktop
+
+[Added Associations]
+x-scheme-handler/http=userapp-Firefox-J9ALMZ.desktop;
+x-scheme-handler/https=userapp-Firefox-J9ALMZ.desktop;
+x-scheme-handler/ftp=userapp-Firefox-J9ALMZ.desktop;
+x-scheme-handler/chrome=userapp-Firefox-J9ALMZ.desktop;
+text/html=userapp-Firefox-J9ALMZ.desktop;
+application/x-extension-htm=userapp-Firefox-J9ALMZ.desktop;
+application/x-extension-html=userapp-Firefox-J9ALMZ.desktop;
+application/x-extension-shtml=userapp-Firefox-J9ALMZ.desktop;
+application/xhtml+xml=userapp-Firefox-J9ALMZ.desktop;
+application/x-extension-xhtml=userapp-Firefox-J9ALMZ.desktop;
+application/x-extension-xht=userapp-Firefox-J9ALMZ.desktop;
+x-scheme-handler/magnet=userapp-transmission-gtk-23GNMZ.desktop;
